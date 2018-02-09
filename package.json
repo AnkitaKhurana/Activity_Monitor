@@ -1,0 +1,27 @@
+{
+  "name": "activity_monitor",
+  "version": "1.0.0",
+  "description": "CPU ACTIVITY MONITOR",
+  "main": "main.js",
+  "scripts": {
+    "start" :"electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnkitaKhurana/Activity_Monitor.git"
+  },
+  "keywords": [
+    "electron",
+    "app"
+  ],
+  "author": "Ankita Khurana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnkitaKhurana/Activity_Monitor/issues"
+  },
+  "devDependencies": {
+    "electron": "^1.4.12"
+  },
+  "homepage": "https://github.com/AnkitaKhurana/Activity_Monitor#readme"
+}
