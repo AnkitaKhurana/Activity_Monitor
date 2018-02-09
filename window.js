@@ -30,7 +30,7 @@ $(()=>{
 
 let chart = new Chart($('.chart'),{
 	type:'doughnut',
-	data ;{
+	data :{
 		labels:[
 		'User Time(ms)',
 		'System Time(ms)',
